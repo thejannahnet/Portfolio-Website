@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Amazon E-commerce Expert</h4>
+                <h5>500+ Projects Completed</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2019</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Specializing in Wholesale operations and quick startup ventures on Amazon. Delivering healthy and realistic income streams for clients through proven strategies.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Business Adviser & Entrepreneur</h4>
+                <h5>Independent Consulting</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2021</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Helping businesses develop and scale effectively. Expertise in startup consulting, investor relations, and connecting founders with market opportunities.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>CEO & Founder</h4>
+                <h5>THEJANNAH.NET</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Leading a dynamic team focused on Amazon e-commerce solutions and business advisory services. Connecting entrepreneurs with angel investors.
             </p>
           </div>
         </div>

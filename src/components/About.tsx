@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I'm Ali Noman, CEO & Founder of THEJANNAH.NET. With over 5 years of experience in Amazon e-commerce, I've successfully managed 500+ projects, from wholesale to quick startups, creating realistic income streams for my clients.
         </p>
       </div>
     </div>
